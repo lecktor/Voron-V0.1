@@ -5,7 +5,7 @@ Connectors cover for Umbilical Toolhead PCB: [link](https://github.com/timmit99/
 ![2](img2.jpg)
 
 ## Additional BOM:
-+ 2x M3x50 Bolts
++ 2x M3x50 DIN912 Screws
 + 2x M3 Nuts
 + 2x 15mm Spacers
 

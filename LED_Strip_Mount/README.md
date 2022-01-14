@@ -4,12 +4,12 @@ This mount was designed for LED strips to illuminate the model while printing an
 ![IMG1](images/LedMount_Render_Front.png)![IMG2](images/LedMount_Render_Back.png)
 
 ## BOM
-+ 2x 150mm of 9.3x16mm Aluminium LED Profile
-+ 8x M3x6 BHCS
-+ 8x M3 Nut
++ 2x 150mm of 9.3x16mm Aluminium LED Profiles
++ 8x M3x6 ISO7380-1 Screws
++ 8x M3 Nuts
 + 4x printed parts [Download](/STL)
 
-The aluminium profile this mount is made for looks like: [DRW1](images/drawingProfile.jpg)
+The aluminium profile: [DRW1](images/drawingProfile.jpg)
 
 Led Kit with RGBNW Neopixels available for purchase [here](https://lecktor.com/en/v0-misc/1014-led-strip-mount-for-voron-v01.html).
 ## Printer tests:

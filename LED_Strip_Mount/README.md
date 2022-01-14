@@ -11,6 +11,7 @@ This mount was designed for LED strips to illuminate the model while printing an
 
 The aluminium profile this mount is made for looks like: [DRW1](images/drawingProfile.jpg)
 
+Led Kit with RGBNW Neopixels available for purchase [here](https://lecktor.com/en/v0-misc/1014-led-strip-mount-for-voron-v01.html).
 ## Printer tests:
 ![IMG3](images/IMG_5454.JPG)
 ![IMG4](images/IMG_5457.JPG)

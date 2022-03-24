@@ -24,7 +24,7 @@ Execute commands shown below:
     cd klipper-led_effect
     ./install-led_effect.sh
 
-Upload [leds.cfg](/Config) file to printer and enable it in printer.cfg adding [include leds.cfg] line.
+Upload [leds.cfg](Config/leds.cfg) file to printer and enable it in printer.cfg adding [include leds.cfg] line.
 
 Connect the leds like shown on pictures:
 

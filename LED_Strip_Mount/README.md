@@ -12,6 +12,29 @@ This mount was designed for LED strips to illuminate the model while printing an
 The aluminium profile: [DRW1](images/drawingProfile.jpg)
 
 Led Kit with RGBNW Neopixels available for purchase [here](https://lecktor.com/en/v0-misc/1014-led-strip-mount-for-voron-v01.html).
+
+## Installation guide:
+
+LogIn to your machine thru SSH.
+
+Execute commands shown below:
+
+    cd ~
+    git clone https://github.com/julianschill/klipper-led_effect.git
+    cd klipper-led_effect
+    ./install-led_effect.sh
+
+Upload [leds.cfg](/Config) file to printer and enable it in printer.cfg adding [include leds.cfg] line.
+
+Connect the leds like shown on pictures:
+
+![IMG9](images/led-strip-mount-for-voron-v01.jpg)
+![IMG6](images/IMG_5943.JPG)
+![IMG7](images/IMG_5944.JPG)
+![IMG8](images/IMG_5945.JPG)
+
+Change your leds.cfg according to your needs. Documentation: https://github.com/julianschill/klipper-led_effect/blob/master/docs/LED_Effect.md
+
 ## Printer tests:
 ![IMG3](images/IMG_5454.JPG)
 ![IMG4](images/IMG_5457.JPG)
